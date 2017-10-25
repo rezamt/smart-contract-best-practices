@@ -8,6 +8,7 @@ Read the docs in Chinese: https://github.com/ConsenSys/smart-contract-best-pract
 
 ```
 $ git clone git@github.com:ConsenSys/smart-contract-best-practices.git
+$ cp requirements.txt requirements
 $ pip install -r requirements
 $ mkdocs build 
 ```
